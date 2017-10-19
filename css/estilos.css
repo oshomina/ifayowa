@@ -1,0 +1,26 @@
+.logo {
+    background: rgb(191,210,85);
+    background: -moz-linear-gradient(-45deg, rgba(191,210,85,1) 0%, rgba(114,170,0,1) 100%, rgba(158,203,45,1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(191,210,85,1) 0%,rgba(114,170,0,1) 100%,rgba(158,203,45,1) 100%);
+    background: linear-gradient(135deg, rgba(191,210,85,1) 0%,rgba(114,170,0,1) 100%,rgba(158,203,45,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d',GradientType=1 );
+    copy
+    
+}
+.navbar {
+    background: rgb(0,110,46);
+    background: -moz-linear-gradient(-45deg, rgba(0,110,46,1) 0%, rgba(0,110,46,1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(0,110,46,1) 0%,rgba(0,110,46,1) 100%);
+    background: linear-gradient(135deg, rgba(0,110,46,1) 0%,rgba(0,110,46,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#006e2e', endColorstr='#006e2e',GradientType=1 );
+    
+}
+
+.navbar a {
+    font-size: 1.5em;
+    color: #FFFFFF;
+}
+
+.awocard{
+    margin-top: -50px;
+}
